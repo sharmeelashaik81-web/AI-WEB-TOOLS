@@ -64,8 +64,6 @@ The goal of this project is to create a **centralized hub for AI tools**, helpin
 
 ---
 
-## 📦 Installation
+## 📦 Installation!!
 
-1. Clone the repository
-
-```bash
+get link here--[https://sharmeelashaik81-web.github.io/AI-WEB-TOOLS/]
